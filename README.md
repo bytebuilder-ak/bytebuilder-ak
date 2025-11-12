@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**bytebuilder-ak/bytebuilder-ak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on **infrastructure planning, BIM, Computational design, Resource management, Architecture, and data-driven analysis projects**  
 - 🌱 I’m currently learning **AutoCAD, Revit, Sketchup, Enscape, D5, R, STATA, Python, GIS, and data visualisation for infrastructure design and research**  
 - 👯 I’m looking to collaborate on **Design, development / open-source or research projects related to infrastructure, sustainability, architecture, and development analytics**  
