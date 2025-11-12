@@ -1,6 +1,4 @@
-[## Hi there 👋](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hey%20Everyone&section=header&fontAlignY=47&fontColor=black&textBg=false)
-
-
+## Hey Everyone
 
 - 🔭 I’m currently working on **infrastructure planning, BIM, Computational design, Resource management, Architecture, and data-driven analysis projects**  
 - 🌱 I’m currently learning **AutoCAD, Revit, Sketchup, Enscape, D5, R, STATA, Python, GIS, and data visualisation for infrastructure design and research**  
